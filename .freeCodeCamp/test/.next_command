@@ -4,3 +4,9 @@ echo hello PostgreSQL
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 psql -U freecodecamp -d postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ALTER TABLE second_table ADD COLUMN first_column INT
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql -U freecodecamp -d postgres
