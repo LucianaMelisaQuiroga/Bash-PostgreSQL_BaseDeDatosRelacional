@@ -56,3 +56,14 @@ psql -U freecodecamp -d postgres
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 psql -U freecodecamp -d postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql -U freecondecamp -d postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql -U freecodecamp -d postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql -U freecodecamp -d postgres
